@@ -9,9 +9,9 @@ import moment from 'moment-timezone'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['573147616444', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['593968585383'], ['5492266466080'], ['5492266613038']]
-global.mods = []
-global.prems = []
+global.owner = ['94760405102', 'mr.nadun', true]
+global.mods = ['94760405102']
+global.prems = ['94760405102']
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
